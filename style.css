@@ -1,0 +1,9 @@
+h1{
+    color: brown;
+    font-size: larger;
+    font-weight: 900;
+}
+p{
+    background-color: coral;
+    font-family: 'Courier New', Courier, monospace;
+}
